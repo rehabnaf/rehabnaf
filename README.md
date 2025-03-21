@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student, mostly self-taught and I enjoy learning on my own as an autodidact.
+I am a computer science student passionate about DevOps, automation and cloud technologies. As a self directed learner, I continuously enhance my skills in CI/CD, containerization and cloud infrastructure to optimize software delivery pipelines and system reliability.
 
 
 ## 🌐 Socials:
